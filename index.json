@@ -3,6 +3,11 @@
   "repo": "wheel",
   "versions": [
     {
+      "commit": "8b6fa740a7101edacb42b0f8e83a1b659ff61033",
+      "tag": "0.46.3",
+      "parsed_at": "2026-11-22T03:25:09.164259+00:00"
+    },
+    {
       "commit": "4ae6d07d38611cb0619864621c06fc032622eaef",
       "tag": "",
       "parsed_at": "2026-10-11T01:16:17.779099+00:00"
