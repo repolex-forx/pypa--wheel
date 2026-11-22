@@ -198,7 +198,9 @@
           "githubUrl": "https://github.com/pypa/setuptools",
           "source": "build_file:pyproject.toml"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/8b6fa740a7101edacb42b0f8e83a1b659ff61033/chunk-001.nq.gz",
+      "dep": "dep/8b6fa740a7101edacb42b0f8e83a1b659ff61033.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
