@@ -164,6 +164,40 @@
       ],
       "ast": [
         "aggregate/ast/8b6fa740a7101edacb42b0f8e83a1b659ff61033/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/8b6fa740a7101edacb42b0f8e83a1b659ff61033.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "packaging",
+          "ecosystem": "PYPI",
+          "version": "24.0",
+          "githubOrg": "pypa",
+          "githubRepo": "packaging",
+          "githubCommit": "7a983f7f0068669ead9d4f7571be24d6c0d83eb9",
+          "githubTag": "24.0",
+          "githubUrl": "https://github.com/pypa/packaging",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pytest",
+          "ecosystem": "PYPI",
+          "version": "6.0.0",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest",
+          "githubCommit": "41a453959441d9b03cba3e47730efca27fa2f252",
+          "githubTag": "6.0.0",
+          "githubUrl": "https://github.com/pytest-dev/pytest",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "setuptools",
+          "ecosystem": "PYPI",
+          "version": "77",
+          "githubOrg": "pypa",
+          "githubRepo": "setuptools",
+          "githubUrl": "https://github.com/pypa/setuptools",
+          "source": "build_file:pyproject.toml"
+        }
       ]
     }
   ],
